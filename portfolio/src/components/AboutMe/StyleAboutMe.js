@@ -83,5 +83,4 @@ export const Link = styled.a`
 
 export const ProfileImage = styled.img`
     width: 20vw;
-    height: 50vh;
 `
