@@ -15,17 +15,17 @@ function HireMe() {
                 <br/>
                 me desenvolver e evoluir na minha carreia profissional.
                 <br/> <br/>
-                E-mail para contato: juliogabriel@outlook.com.br <br />
+                E-mail para contato: juliogabriel@outlook.com <br />
                 Celular: (48) 99682-5804
             </Text>
             <ContainerMediaSocial>
-                <a href="https://www.linkedin.com/in/eujuliogabriel/">
+                <a href="https://www.linkedin.com/in/eujuliogabriel/" target="_blank" rel="noreferrer noopener">
                     <LogoSocialMedia src={Linkedin}></LogoSocialMedia>
                 </a>
-                <a href="https://github.com/EuJulioGabriel">
+                <a href="https://github.com/EuJulioGabriel" target="_blank" rel="noreferrer noopener">
                     <LogoSocialMedia src={GitHub}></LogoSocialMedia>
                 </a>
-                <a href="https://api.whatsapp.com/send?phone=5548996825804">
+                <a href="https://api.whatsapp.com/send?phone=5548996825804" target="_blank" rel="noreferrer noopener">
                     <LogoSocialMedia src={Whatsapp}></LogoSocialMedia>    
                 </a>
             </ContainerMediaSocial>

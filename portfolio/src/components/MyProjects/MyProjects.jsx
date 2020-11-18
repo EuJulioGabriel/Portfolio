@@ -26,7 +26,7 @@ function MyProjects() {
                         do Tinder e tinha como objetivo revisar os Hooks useState() e useEffect() que foram os 
                         conteúdos daquela semana de aula.
                     </DescriptionProject>
-                    <Link href="https://github.com/EuJulioGabriel/Astromatch">
+                    <Link href="https://github.com/EuJulioGabriel/Astromatch" target="_blank" rel="noreferrer noopener">
                         <Project>Ver no GitHub</Project>
                     </Link>
                 </ContainerContentCard>
@@ -42,7 +42,7 @@ function MyProjects() {
                         cadastro, login, fazer amizade, desfazer amizade, criar post, curtir post, descurtir post, 
                         criar comentário, feed de postagem e filtrar por tipo de post: post e evento.
                     </DescriptionProjectBack>
-                    <Link href="https://github.com/EuJulioGabriel/Labook">
+                    <Link href="https://github.com/EuJulioGabriel/Labook" target="_blank" rel="noreferrer noopener">
                         <ProjectBack>Ver no GitHub</ProjectBack>
                     </Link>
                 </ContainerContentCard>
@@ -63,16 +63,16 @@ function MyProjects() {
                         que as pessoas que você segue postaram e ver um perfil de um usuário.
                     </DescriptionProjectFullStack>
                     <ContainerLinks>
-                        <Link href="https://github.com/EuJulioGabriel/FrontEnd-LabeImage">
+                        <Link href="https://github.com/EuJulioGabriel/FrontEnd-LabeImage" target="_blank" rel="noreferrer noopener">
                             <ProjectFullStack>Front-end GitHub</ProjectFullStack>
                         </Link>
-                        <Link href="https://github.com/EuJulioGabriel/BackEnd-LabeImage">
+                        <Link href="https://github.com/EuJulioGabriel/BackEnd-LabeImage" target="_blank" rel="noreferrer noopener">
                             <ProjectFullStack>Back-end GitHub</ProjectFullStack>
                         </Link>
                     </ContainerLinks>
                 </ContainerContentCard>
             </CardProject>
-            <Link href="https://github.com/EuJulioGabriel?tab=repositories">
+            <Link href="https://github.com/EuJulioGabriel?tab=repositories" target="_blank" rel="noreferrer noopener">
                 <MoreProjects>Mais projetos</MoreProjects>
             </Link>
         </ContainerMyProjects>
